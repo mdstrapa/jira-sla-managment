@@ -1,0 +1,12 @@
+jira:
+  end-point: https://teams-v2.dev.sicredi.io/rest/
+  end-point-tts: https://teams-v2.dev.sicredi.io/rest/tts-api/1.0/sla/
+  auth-token: Basic bWFyY29zX3N0cmFwYXpvbjpBUkcyMDIyZWhub2lz
+
+
+my-sql:
+  server: localhost
+  port: 3306
+  database: db
+  user: user
+  password: pass
